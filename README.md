@@ -35,14 +35,14 @@ The landing page is all about the pages and other overviews of the pages.The dra
 
 Page 2: The page 2 has the four heroes consists that can user choose from the websites
 
-<img src="./images/snap3.PNG" alt="Girl in a jacket" width="500" height="600">
+<img src="./images/snap3.PNG" alt="Girl in a jacket" width="900" height="600">
 
 This section consists of slider image with different sceene of our games.
 
 <img src="./images/snap4.PNG" alt="Snap 4" width="900" height="600"><br>
 This page consist of the versions of the operating system of the game that supports to the game modes.
 
-<img src="./images/snap6.PNG" alt="Girl in a jacket" width="500" height="600">
+<img src="./images/snap6.PNG" alt="Girl in a jacket" width="900" height="600">
 
 <p style="font-weight:italic;font-size:25px">The insides of darkness page can gives a short description that the developer made.</p>
 
